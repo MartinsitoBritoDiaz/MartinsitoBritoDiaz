@@ -4,7 +4,7 @@
 
 - 🎓 I’m currently learning everything
 ---
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
     <img align="center" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
@@ -16,30 +16,59 @@
     <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
     <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </div>
-<br />
+<br>
  
  ---
+<br>
 
-<h3 align="center">GitHub Stats</h3>
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinsitoBritoDiaz&theme=algolia&show_icons=true)
 
+
+![Anurag's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MartinsitoBritoDiaz&theme=algolia&show_icons=true)
+
 </div>
 
-<h3 align="center">Top Languages</h3>
+<br>
+
+---
+
+<br>
+
+<h2 align="center">Top Languages</h2>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsitoBritoDiaz&langs_count=8)](https://github.com/MartinsitoBritoDiaz/github-readme-stats)
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsitoBritoDiaz&theme=algolia&langs_count=8)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">Contribution Graph</h2>
+<div align="center">
+
+ <br>
+
+![Ashutosh's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=MartinsitoBritoDiaz&theme=react-dark)
 
 </div>
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MaritnsitoBD | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="MaritnsitoBD | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MaritnsitoBD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MaritnsitoBD | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
 
