@@ -2,7 +2,7 @@
 
 ## I'm a Developer!!
 
-- 🎓 I’m currently learning everything
+- 🎓 I’m currently learning everything.
 ---
 <h2 align="center">Languages and Tools</h2>
 <div style="display: inline_block" align="center"><br>
