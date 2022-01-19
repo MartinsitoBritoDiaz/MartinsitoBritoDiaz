@@ -45,7 +45,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsitoBritoDiaz&theme=algolia&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsitoBritoDiaz&theme=algolia&langs_count=9)
 
 </div>
 
