@@ -1,6 +1,10 @@
 ## Hi everyone, I'm Martinsito <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
+<<<<<<< HEAD
 - 🎓 I’m currently learning ReactJS. 
+=======
+## I'm a Software Developer!!
+>>>>>>> da6a38c6b5e5155227f7b113098213cf89e4c20c
 
 ---
 <h2 align="center">Languages and Tools</h2>
